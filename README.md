@@ -4,7 +4,7 @@
 #### 	Dapp Name: BidPoint-Dapp
 #### 	Clients: Buyers/Sellers
 ## 	Problem Statement: 
-•	This application will be a decentralized market place for people around the world. The inspiration for this idea is the website StockX.com. StockX is a market place for sneakerheads where the bidding war can go beyond $100k for a single pair of shoes. In this DAPP users across the globe can find what they want and can bid over the item. The bidding will be set up within a certain time frame. This DAPP will become a competitive market place. 
+•	This application will be a decentralized market place for people around the world. In this DAPP users across the globe can find what they want and can bid over the item. The bidding will be set up within a certain time frame. This DAPP will become a competitive market place. 
 •	The DAPP will establish direct contact between the buyers and the sellers. The transactions will take place in real-time and only between the concerned parties. Blockchain will ensure a trust layer that will verify and validate the information of the users leaving zero doubts of whether the clients are spending the right amount and check whether the transactions are going to the right party.
 ## Components:
 ### Security:
